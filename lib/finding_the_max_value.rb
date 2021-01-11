@@ -7,3 +7,5 @@ end
 end
 
 a1 = [ 1, 2, 3]
+
+find_max_value(a1)
