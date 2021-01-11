@@ -10,6 +10,6 @@ end
 max_value
 end
 
-a1 = [ 1, 2, 3]
+hill = [1,2,3,4,5,4,3,2,1]
 
-find_max_value(a1)
+find_max_value(hill)
